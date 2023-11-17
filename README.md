@@ -1,8 +1,30 @@
-# React + Vite
+# FEMA - Prog. Web 3
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Programa Exemplo
 
-Currently, two official plugins are available:
+### A tarefa tem como objetivo exemplificar o axios e hook customizado
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Tecnologias utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+- Styled Components
+- Axios
+
+### Como rodar o projeto
+
+```bash
+# Clone o repositório
+git clone https://github.com/vbruno/FEMA-WEB3-atv04-hook_axios
+
+# Entre no diretório
+cd FEMA-WEB3-atv04-hook_axios
+
+# Instale as dependências
+npm install
+
+# Rode o projeto
+npm run dev
+```
